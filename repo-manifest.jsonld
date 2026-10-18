@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/snakers4/silero-vad/commit/1e261b036686cd0017d500ee96acd1c4ba572a9d",
       "git:hexsha": "1e261b036686cd0017d500ee96acd1c4ba572a9d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T01:48:37.833466+00:00"
     },
     {
       "@id": "https://repolex.ai/r/snakers4/silero-vad/commit/a345715b8fc2d24b2991ec5d54c7588c64b9f9c7",
